@@ -1,0 +1,51 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.ctable{
+	font-family: 'Times New Roman';
+	font-size: 32pt;
+	text-align: center;
+}
+
+td {
+	text-align: center;
+border: 1px solid black;
+}
+
+.news{
+	width: 40%;
+margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
+
+.photo_news{
+	width: 300pt;
+	height: 250pt;
+}
+
+.a_news{
+	text-decoration: underline;
+	color: blue;
+}
+
+.indeximg{
+	width: 150px;
+	height: 212px;
+}
+
+.indexp{
+	text-align: center;
+}
+
+.rozkladtable{
+	border: 1px solid black;
+	width: 100%;
+}
+
+body{
+	background: linear-gradient(to top, #E6E617 20%, #F6F662 50%, #F6F69C 80%);
+}
